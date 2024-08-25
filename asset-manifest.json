@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/pisrato/static/css/main.07c22f79.css",
+    "main.js": "/pisrato/static/js/main.d1e203a3.js",
+    "static/js/415.4d6acbeb.chunk.js": "/pisrato/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/pisrato/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Illustrator8.png": "/pisrato/static/media/Illustrator8.42fecce7ce5437b9839d.png",
+    "static/media/Illustrator2.png": "/pisrato/static/media/Illustrator2.72bbb60c2aff7fc9b854.png",
+    "static/media/Illustrator5.png": "/pisrato/static/media/Illustrator5.87222a6febc973fc7d77.png",
+    "static/media/Illustrator1.png": "/pisrato/static/media/Illustrator1.5b4c5c80db20853d2df3.png",
+    "static/media/Illustrator3.png": "/pisrato/static/media/Illustrator3.fc5c7557e56e0fb54f42.png",
+    "static/media/Illustrator6.png": "/pisrato/static/media/Illustrator6.fde75e3cdd3e636211f1.png",
+    "static/media/vector.png": "/pisrato/static/media/vector.a73d92c89619420d981d.png",
+    "static/media/Gilang Ferdiansyah.jpg": "/pisrato/static/media/Gilang Ferdiansyah.48bbe5ddd337f6ed5680.jpg",
+    "static/media/aqsa.png": "/pisrato/static/media/aqsa.8704d495a382be9e5737.png",
+    "static/media/emotion.png": "/pisrato/static/media/emotion.90379f9400ae603b6adb.png",
+    "static/media/chatify.png": "/pisrato/static/media/chatify.ed2f30989750f824cf5f.png",
+    "static/media/Illustrator4.png": "/pisrato/static/media/Illustrator4.80cb39bba537d98f0fea.png",
+    "static/media/Illustrator7.png": "/pisrato/static/media/Illustrator7.e599c6c004fe7528ed1d.png",
+    "static/media/codeEditor.png": "/pisrato/static/media/codeEditor.c3a9afebd6627a85d82b.png",
+    "static/media/nabeer.jpg": "/pisrato/static/media/nabeer.82818a5782417b255afb.jpg",
+    "static/media/blog.png": "/pisrato/static/media/blog.4d528588838dfff415fb.png",
+    "static/media/logo.png": "/pisrato/static/media/logo.e4390bbaad10e28e18d3.png",
+    "static/media/home-main.svg": "/pisrato/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/pisrato/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/sarwar.jpg": "/pisrato/static/media/sarwar.512746a7752eca97cb33.jpg",
+    "static/media/hiba.jpg": "/pisrato/static/media/hiba.1780729be9bb8b789272.jpg",
+    "static/media/Soumyajit_Behera-BIT_MESRA.pdf": "/pisrato/static/media/Soumyajit_Behera-BIT_MESRA.f31c00c0623443fc6fa3.pdf",
+    "static/media/john.png": "/pisrato/static/media/john.171d096f60fe69cc9589.png",
+    "static/media/jane.png": "/pisrato/static/media/jane.2b717e1010cfb167f6bb.png",
+    "static/media/pre.svg": "/pisrato/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/pisrato/index.html",
+    "main.07c22f79.css.map": "/pisrato/static/css/main.07c22f79.css.map",
+    "main.d1e203a3.js.map": "/pisrato/static/js/main.d1e203a3.js.map",
+    "415.4d6acbeb.chunk.js.map": "/pisrato/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/pisrato/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07c22f79.css",
+    "static/js/main.d1e203a3.js"
+  ]
+}
