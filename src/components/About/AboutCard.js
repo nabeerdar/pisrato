@@ -16,15 +16,15 @@ function AboutCard() {
             <span className="purple"> Full Stack Developer</span>, proficient in both frontend and backend development to build robust and scalable applications.
             <br />
             <span> Gilang Ferdiansyah is our </span>
-            <span className="purple">Social Media Manager</span>, adept at creating engaging content and managing our online presence.
+            <span className="purple">Proof Reader</span>, Adept at proofreading and ensuring all written materials are accurate and polished before publication.
             <br />
             <span >  Hiba is our </span>
              <span className="purple"> 3D Modeler</span>
              ,  bringing ideas to life with detailed and realistic 3D models.
             <br />
             <span >  Sarwar is our </span>
-             <span className="purple"> Web Development intern</span>
-             ,  eager to learn and contribute to developing cutting-edge web applications.
+             <span className="purple"> Backend intern</span>
+             ,  Eager to learn and contribute to developing cutting-edge web applications as a backend developer.
             <br />
           </p>
           {/* <ul>

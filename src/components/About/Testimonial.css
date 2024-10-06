@@ -1,0 +1,154 @@
+
+   .testimonial {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  
+  .testimonial-heading {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .testimonial-heading b {
+    color: #68187a;
+  }
+  
+  .review-summary {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 20px;
+  
+  }
+  
+  .left-section {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .rating-score {
+    font-size: 48px;
+    font-weight: bold;
+    color: #68187a; 
+    margin-bottom: 5px;
+  }
+  
+  .stars {
+    color: #000000; 
+    font-size: 24px;
+    margin-bottom: 5px;
+  }
+  
+  .total-reviews {
+    font-size: 16px;
+    margin-top: -10px;
+    color: #666;
+  }
+  
+  .right-section {
+    flex: 1;
+    margin-left: 20px;
+  }
+  
+  .rating-lines {
+    width: 100%;
+    margin-left: 10px;
+  }
+  
+  .line-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+  }
+  
+  .line-number {
+    width: 20px;
+    font-size: 14px;
+    color: #333;
+    text-align: center;
+  }
+  
+  .line-bar {
+    flex: 1;
+    background-color: #ddd;
+    height: 10px;
+    border-radius: 5px;
+    overflow: hidden;
+    margin-left: 10px;
+  }
+  
+  .line-fill {
+    height: 100%;
+    background-color: #68187a; 
+    transition: width 0.3s ease;
+  }
+  
+  .reviews {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .review {
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .review-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .review-image {
+    width: 50px;
+    height: 50px;
+    border-radius: 10%; 
+    object-fit: cover;
+    margin-right: 15px;
+  }
+  
+  .review-details {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; 
+    flex: 1;
+  }
+  
+  .review-name {
+    margin: 0;
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .review-date {
+    margin: 0;
+    font-size: 12px;
+    color: #888;
+  }
+  
+  .review-message {
+    font-size: 14px;
+    color: #555;
+    text-align: left;
+  }
+  
+  .review-divider {
+    margin-top: 10px;
+    border: none;
+    border-top: 1px solid #eee;
+  }
+  
+
+
+
+  

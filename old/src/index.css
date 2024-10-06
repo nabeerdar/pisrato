@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap");
+body {
+  margin: 0;
+  font-family: "Raleway", serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* background-image: linear-gradient(to left, rgb(237, 233, 245), rgb(238, 235, 245)); */
+  background-image: var(--image-gradient), url(./Assets/home-bg1.jpg);
+  background-position: top center;
+  background-size: cover !important;
+  background-repeat: no-repeat;
+}
