@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0b49eb37.css",
-    "main.js": "/static/js/main.92a043d0.js",
+    "main.css": "/static/css/main.9b8103a3.css",
+    "main.js": "/static/js/main.ac34d16f.js",
     "static/js/415.487dcfc4.chunk.js": "/static/js/415.487dcfc4.chunk.js",
     "static/js/787.515077c9.chunk.js": "/static/js/787.515077c9.chunk.js",
     "static/media/Illustrator8.png": "/static/media/Illustrator8.42fecce7ce5437b9839d.png",
@@ -15,31 +15,32 @@
     "static/media/Gilang Ferdiansyah.jpg": "/static/media/Gilang Ferdiansyah.48bbe5ddd337f6ed5680.jpg",
     "static/media/saad.png": "/static/media/saad.1ade81dc21465d601a34.png",
     "static/media/emotion.png": "/static/media/emotion.90379f9400ae603b6adb.png",
+    "static/media/Arsalan.png": "/static/media/Arsalan.3066a349aa22d1be92c0.png",
     "static/media/chatify.png": "/static/media/chatify.ed2f30989750f824cf5f.png",
     "static/media/Illustrator4.png": "/static/media/Illustrator4.80cb39bba537d98f0fea.png",
     "static/media/Illustrator7.png": "/static/media/Illustrator7.e599c6c004fe7528ed1d.png",
+    "static/media/pisrato Light Theme.png": "/static/media/pisrato Light Theme.bc2badffe8eac0efd3bd.png",
+    "static/media/pisrato logo1.png": "/static/media/pisrato logo1.787fbcfe99c02310fd59.png",
     "static/media/codeEditor.png": "/static/media/codeEditor.c3a9afebd6627a85d82b.png",
     "static/media/nabeer.jpg": "/static/media/nabeer.82818a5782417b255afb.jpg",
     "static/media/blog.png": "/static/media/blog.4d528588838dfff415fb.png",
-    "static/media/logo.png": "/static/media/logo.e4390bbaad10e28e18d3.png",
     "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/sarwar.jpg": "/static/media/sarwar.512746a7752eca97cb33.jpg",
     "static/media/aqsa.jpg": "/static/media/aqsa.6e1b6b1f1bcae5008cd6.jpg",
     "static/media/hiba.jpg": "/static/media/hiba.1780729be9bb8b789272.jpg",
-    "static/media/Soumyajit_Behera-BIT_MESRA.pdf": "/static/media/Soumyajit_Behera-BIT_MESRA.f31c00c0623443fc6fa3.pdf",
     "static/media/Fawaz.jpeg": "/static/media/Fawaz.8b770dc52ecc64b0696b.jpeg",
     "static/media/Mirana.jpg": "/static/media/Mirana.717aeeea3a6802755a35.jpg",
     "static/media/Sarim.jpg": "/static/media/Sarim.5f72e8f6e76eba71a79a.jpg",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
-    "main.0b49eb37.css.map": "/static/css/main.0b49eb37.css.map",
-    "main.92a043d0.js.map": "/static/js/main.92a043d0.js.map",
+    "main.9b8103a3.css.map": "/static/css/main.9b8103a3.css.map",
+    "main.ac34d16f.js.map": "/static/js/main.ac34d16f.js.map",
     "415.487dcfc4.chunk.js.map": "/static/js/415.487dcfc4.chunk.js.map",
     "787.515077c9.chunk.js.map": "/static/js/787.515077c9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b49eb37.css",
-    "static/js/main.92a043d0.js"
+    "static/css/main.9b8103a3.css",
+    "static/js/main.ac34d16f.js"
   ]
 }
